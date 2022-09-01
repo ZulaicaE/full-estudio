@@ -408,3 +408,22 @@ Para obtener p5 no podemos hacer una llamada directa debemos indicar el camino:
 miObjeto.p7 // Error.
 miObjeto.p6[0].p7 // "Holap7".
 */
+
+// Bootstrap.
+
+/*
+Bootstrap es una librería de CSS que contiene estilos predefinidos. Es una herramienta muy poderosa
+ya que agiliza la producción de un proyecto debido a que no debemos preocuparnos de acordarnos todos
+los tipos de estilos creados por varias personas.
+
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+
+No es la única librería hay muchas mas!.
+*/
+
+// Node Package Manager (NPM).
+
+/*
+NPM es el sistema de gestión de paquetes por defecto para Node.js, un entorno de ejecución para 
+JavaScript. Este se ejecuta desde la línea de comandos y maneja las dependencias para una aplicación.
+*/
