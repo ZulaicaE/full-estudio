@@ -7,7 +7,7 @@ Comentario
     multilínea.
 */
 
-// Mostrar texto:
+// Mostrar texto.
 
 /*
 alert('Hello World!'); // Muestra un cartel con el texto Hello World!.
@@ -15,7 +15,7 @@ alert('Hello World!'); // Muestra un cartel con el texto Hello World!.
 console.log('Hello World!'); // Muestra en consola el texto Hello World!.
 */
 
-// Como declarar variables:
+// Variables.
 
 /*
 var nombreVariable; No es recomendado usarlo (Más adelante se explica el por qué).
