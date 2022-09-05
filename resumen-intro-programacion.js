@@ -428,3 +428,9 @@ NPM es el sistema de gestión de paquetes por defecto para Node.js, un entorno d
 JavaScript. Este se ejecuta desde la línea de comandos y maneja las dependencias para una aplicación.
 */
 
+// Cypress.
+
+/*
+Cypress es una herramienta de JS que nos permite comprobar que el performance de un producto recién 
+desarrollado sea buena y corresponda con los requerimientos iniciales.
+*/
